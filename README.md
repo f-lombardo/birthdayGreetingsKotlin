@@ -3,10 +3,11 @@
 A kotlin version of the [The birthday greetings kata](http://matteo.vaccari.name/blog/archives/154) created by [Matteo Vaccari](https://www.linkedin.com/in/matteovaccari/).
 
 ## Rules of the kata
-write a program that
+
+Write a program that:
 
 1. Loads a set of employee records from a flat file
-1. Sends a greetings email to all employees whose birthday is today
+2. Sends a greetings email to all employees whose birthday is today
 
 The flat file is a sequence of records, separated by newlines; this are the first few lines:
 
